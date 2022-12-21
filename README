@@ -1,0 +1,6 @@
+Instructions:
+Run:
+    1. First type make in the command line to create the executable files.
+    2. Type the utility along with the input into the command line and press enter.
+Clean:
+    1. To remove all executables and object code, type make clean.
